@@ -4,3 +4,9 @@ def add(a, b):
     print(a + b)
 
 add(12, 16)
+
+
+def subtract(a , b):
+    print(a - b)
+
+subtract(5, 2)
